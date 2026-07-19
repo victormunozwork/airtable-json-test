@@ -1,1 +1,137 @@
-[]
+[
+  {
+    "unitId": "U-101",
+    "projectName": "Sunset Residences",
+    "buildingOrTower": "Tower A",
+    "floor": "10",
+    "apartmentNumber": "1001",
+    "propertyType": "Apartment",
+    "interiorAreaSqm": 85
+  },
+  {
+    "unitId": "U-102",
+    "projectName": "Sunset Residences",
+    "buildingOrTower": "Tower A",
+    "floor": "10",
+    "apartmentNumber": "1002",
+    "propertyType": "Apartment",
+    "interiorAreaSqm": 110
+  },
+  {
+    "unitId": "U-104",
+    "projectName": "Sunset Residences",
+    "buildingOrTower": "Tower A",
+    "floor": "11",
+    "apartmentNumber": "1104",
+    "propertyType": "Apartment",
+    "interiorAreaSqm": 60
+  },
+  {
+    "unitId": "U-203",
+    "projectName": "Sunset Residences",
+    "buildingOrTower": "Tower B",
+    "floor": "20",
+    "apartmentNumber": "2003",
+    "propertyType": "Penthouse",
+    "interiorAreaSqm": 180
+  },
+  {
+    "unitId": "U-305",
+    "projectName": "Green Park",
+    "buildingOrTower": "Block C",
+    "floor": "3",
+    "apartmentNumber": "305",
+    "propertyType": "Apartment",
+    "interiorAreaSqm": 78
+  },
+  {
+    "unitId": "U-306",
+    "projectName": "Green Park",
+    "buildingOrTower": "Block C",
+    "floor": "3",
+    "apartmentNumber": "306",
+    "propertyType": "Apartment",
+    "interiorAreaSqm": 75
+  },
+  {
+    "unitId": "U-401",
+    "projectName": "Green Park",
+    "buildingOrTower": "Block D",
+    "floor": "4",
+    "apartmentNumber": "401",
+    "propertyType": "Apartment",
+    "interiorAreaSqm": 105
+  },
+  {
+    "unitId": "U-402",
+    "projectName": "Green Park",
+    "buildingOrTower": "Block D",
+    "floor": "4",
+    "apartmentNumber": "402",
+    "propertyType": "Apartment",
+    "interiorAreaSqm": 55
+  },
+  {
+    "unitId": "U-501",
+    "projectName": "Ocean View",
+    "buildingOrTower": "Tower 1",
+    "floor": "5",
+    "apartmentNumber": "501",
+    "propertyType": "Apartment",
+    "interiorAreaSqm": 90
+  },
+  {
+    "unitId": "U-502",
+    "projectName": "Ocean View",
+    "buildingOrTower": "Tower 1",
+    "floor": "5",
+    "apartmentNumber": "502",
+    "propertyType": "Apartment",
+    "interiorAreaSqm": 120
+  },
+  {
+    "unitId": "U-601",
+    "projectName": "Ocean View",
+    "buildingOrTower": "Tower 2",
+    "floor": "6",
+    "apartmentNumber": "601",
+    "propertyType": "Apartment",
+    "interiorAreaSqm": 88
+  },
+  {
+    "unitId": "U-602",
+    "projectName": "Ocean View",
+    "buildingOrTower": "Tower 2",
+    "floor": "6",
+    "apartmentNumber": "602",
+    "propertyType": "Apartment",
+    "interiorAreaSqm": 50
+  },
+  {
+    "unitId": "U-701",
+    "projectName": "City Heights",
+    "buildingOrTower": "Block A",
+    "floor": "7",
+    "apartmentNumber": "701",
+    "propertyType": "Apartment",
+    "interiorAreaSqm": 82
+  },
+  {
+    "unitId": "U-702",
+    "projectName": "City Heights",
+    "buildingOrTower": "Block A",
+    "floor": "7",
+    "apartmentNumber": "702",
+    "propertyType": "Apartment",
+    "interiorAreaSqm": 115
+  },
+  {
+    "unitId": "U-801",
+    "projectName": "City Heights",
+    "buildingOrTower": "Block B",
+    "floor": "8",
+    "apartmentNumber": "801",
+    "propertyType": "Penthouse",
+    "interiorAreaSqm": 200
+  }
+]
