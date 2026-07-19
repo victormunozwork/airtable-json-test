@@ -2,136 +2,106 @@
   {
     "unitId": "U-101",
     "projectName": "Sunset Residences",
-    "buildingOrTower": "Tower A",
-    "floor": "10",
-    "apartmentNumber": "1001",
-    "propertyType": "Apartment",
-    "interiorAreaSqm": 85
+    "availabilityStatus": "Reserved",
+    "currentPrice": 380000,
+    "propertyType": "Apartment"
   },
   {
     "unitId": "U-102",
     "projectName": "Sunset Residences",
-    "buildingOrTower": "Tower A",
-    "floor": "10",
-    "apartmentNumber": "1002",
-    "propertyType": "Apartment",
-    "interiorAreaSqm": 110
+    "availabilityStatus": "Reserved",
+    "currentPrice": 495000,
+    "propertyType": "Apartment"
   },
   {
     "unitId": "U-104",
     "projectName": "Sunset Residences",
-    "buildingOrTower": "Tower A",
-    "floor": "11",
-    "apartmentNumber": "1104",
-    "propertyType": "Apartment",
-    "interiorAreaSqm": 60
+    "availabilityStatus": "Sold",
+    "currentPrice": 270000,
+    "propertyType": "Apartment"
   },
   {
     "unitId": "U-203",
     "projectName": "Sunset Residences",
-    "buildingOrTower": "Tower B",
-    "floor": "20",
-    "apartmentNumber": "2003",
-    "propertyType": "Penthouse",
-    "interiorAreaSqm": 180
+    "availabilityStatus": "Available",
+    "currentPrice": 1200000,
+    "propertyType": "Penthouse"
   },
   {
     "unitId": "U-305",
     "projectName": "Green Park",
-    "buildingOrTower": "Block C",
-    "floor": "3",
-    "apartmentNumber": "305",
-    "propertyType": "Apartment",
-    "interiorAreaSqm": 78
+    "availabilityStatus": "Reserved",
+    "currentPrice": 320000,
+    "propertyType": "Apartment"
   },
   {
     "unitId": "U-306",
     "projectName": "Green Park",
-    "buildingOrTower": "Block C",
-    "floor": "3",
-    "apartmentNumber": "306",
-    "propertyType": "Apartment",
-    "interiorAreaSqm": 75
+    "availabilityStatus": "Available",
+    "currentPrice": 310000,
+    "propertyType": "Apartment"
   },
   {
     "unitId": "U-401",
     "projectName": "Green Park",
-    "buildingOrTower": "Block D",
-    "floor": "4",
-    "apartmentNumber": "401",
-    "propertyType": "Apartment",
-    "interiorAreaSqm": 105
+    "availabilityStatus": "Reserved",
+    "currentPrice": 450000,
+    "propertyType": "Apartment"
   },
   {
     "unitId": "U-402",
     "projectName": "Green Park",
-    "buildingOrTower": "Block D",
-    "floor": "4",
-    "apartmentNumber": "402",
-    "propertyType": "Apartment",
-    "interiorAreaSqm": 55
+    "availabilityStatus": "Available",
+    "currentPrice": 250000,
+    "propertyType": "Apartment"
   },
   {
     "unitId": "U-501",
     "projectName": "Ocean View",
-    "buildingOrTower": "Tower 1",
-    "floor": "5",
-    "apartmentNumber": "501",
-    "propertyType": "Apartment",
-    "interiorAreaSqm": 90
+    "availabilityStatus": "Reserved",
+    "currentPrice": 420000,
+    "propertyType": "Apartment"
   },
   {
     "unitId": "U-502",
     "projectName": "Ocean View",
-    "buildingOrTower": "Tower 1",
-    "floor": "5",
-    "apartmentNumber": "502",
-    "propertyType": "Apartment",
-    "interiorAreaSqm": 120
+    "availabilityStatus": "Reserved",
+    "currentPrice": 600000,
+    "propertyType": "Apartment"
   },
   {
     "unitId": "U-601",
     "projectName": "Ocean View",
-    "buildingOrTower": "Tower 2",
-    "floor": "6",
-    "apartmentNumber": "601",
-    "propertyType": "Apartment",
-    "interiorAreaSqm": 88
+    "availabilityStatus": "Sold",
+    "currentPrice": 410000,
+    "propertyType": "Apartment"
   },
   {
     "unitId": "U-602",
     "projectName": "Ocean View",
-    "buildingOrTower": "Tower 2",
-    "floor": "6",
-    "apartmentNumber": "602",
-    "propertyType": "Apartment",
-    "interiorAreaSqm": 50
+    "availabilityStatus": "Sold",
+    "currentPrice": 230000,
+    "propertyType": "Apartment"
   },
   {
     "unitId": "U-701",
     "projectName": "City Heights",
-    "buildingOrTower": "Block A",
-    "floor": "7",
-    "apartmentNumber": "701",
-    "propertyType": "Apartment",
-    "interiorAreaSqm": 82
+    "availabilityStatus": "Available",
+    "currentPrice": 370000,
+    "propertyType": "Apartment"
   },
   {
     "unitId": "U-702",
     "projectName": "City Heights",
-    "buildingOrTower": "Block A",
-    "floor": "7",
-    "apartmentNumber": "702",
-    "propertyType": "Apartment",
-    "interiorAreaSqm": 115
+    "availabilityStatus": "Reserved",
+    "currentPrice": 520000,
+    "propertyType": "Apartment"
   },
   {
     "unitId": "U-801",
     "projectName": "City Heights",
-    "buildingOrTower": "Block B",
-    "floor": "8",
-    "apartmentNumber": "801",
-    "propertyType": "Penthouse",
-    "interiorAreaSqm": 200
+    "availabilityStatus": "Reserved",
+    "currentPrice": 1350000,
+    "propertyType": "Penthouse"
   }
 ]
