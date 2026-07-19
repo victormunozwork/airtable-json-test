@@ -2,14 +2,14 @@
   {
     "unitId": "U-101",
     "projectName": "Sunset Residences",
-    "availabilityStatus": "Reserved",
+    "availabilityStatus": "Sold",
     "currentPrice": 380000,
     "propertyType": "Apartment"
   },
   {
     "unitId": "U-102",
     "projectName": "Sunset Residences",
-    "availabilityStatus": "Reserved",
+    "availabilityStatus": "Sold",
     "currentPrice": 495000,
     "propertyType": "Apartment"
   },
@@ -23,7 +23,7 @@
   {
     "unitId": "U-203",
     "projectName": "Sunset Residences",
-    "availabilityStatus": "Available",
+    "availabilityStatus": "Sold",
     "currentPrice": 1200000,
     "propertyType": "Penthouse"
   },
@@ -100,7 +100,7 @@
   {
     "unitId": "U-801",
     "projectName": "City Heights",
-    "availabilityStatus": "Reserved",
+    "availabilityStatus": "Sold",
     "currentPrice": 1350000,
     "propertyType": "Penthouse"
   }
