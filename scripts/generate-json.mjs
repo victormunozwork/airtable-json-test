@@ -70,11 +70,9 @@ const properties = airtableRecords
     return {
       unitId: fields["Unit ID"] ?? "",
       projectName: fields["Project name"] ?? "",
-      buildingOrTower: fields["Building or tower"] ?? "",
-      floor: fields["Floor"] ?? "",
-      apartmentNumber: fields["Apartment number"] ?? "",
+      availabilityStatus: fields["Availability status"] ?? "",
+      currentPrice: fields["Current price"] ?? "",
       propertyType: fields["Property type"] ?? "",
-      interiorAreaSqm: fields["Interior area (sqm)"] ?? null,
     };
   })
   /*
